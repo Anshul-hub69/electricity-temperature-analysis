@@ -14,13 +14,13 @@ This project analyzes how temperature affects electricity consumption using real
 * Data Visualization
 * Machine Learning Model
 
-## Tools Used
+## Tools Used:
 
 * Python (Pandas, NumPy)
 * Matplotlib, Seaborn
 * Scikit-learn
 
-## Key Insights
+## Key Insights:
 
 * Electricity demand increases during extreme temperatures
 * Peak usage occurs during evening hours

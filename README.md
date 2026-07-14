@@ -1,13 +1,13 @@
-# electricity-temperature-analysis
+# electricity-temperature-analysis:
 Data-driven analysis of electricity consumption based on temperature using Python and machine learning
 
-# Electricity Demand vs Temperature Analysis
+# Electricity Demand vs Temperature Analysis:
 
-## Overview
+## Overview:
 
 This project analyzes how temperature affects electricity consumption using real-world datasets.
 
-## Features
+## Features:
 
 * Data Cleaning & Preprocessing
 * Feature Engineering
@@ -26,10 +26,10 @@ This project analyzes how temperature affects electricity consumption using real
 * Peak usage occurs during evening hours
 * Seasonal trends impact electricity consumption
 
-## Model
+## Model:
 
 A Linear Regression model was used to predict electricity demand.
 
-## Author
+## Author:
 
 Anshul Sharma

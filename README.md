@@ -10,6 +10,7 @@ This project analyzes how temperature affects electricity consumption using real
 ## Features:
 
 * Data Cleaning & Preprocessing
+* Data Exploration
 * Feature Engineering
 * Data Visualization
 * Machine Learning Model
@@ -28,7 +29,8 @@ This project analyzes how temperature affects electricity consumption using real
 
 ## Model:
 
-A Linear Regression model was used to predict electricity demand.
+A Linear Regression model was used to predict electricity demand and predicted one of the most accurate scores.
+
 
 ## Author:
 
